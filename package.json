@@ -1,0 +1,23 @@
+{
+  "name": "ts-toolkit",
+  "version": "1.0.0",
+  "description": "TS 工具库",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantian007/ts-toolkit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantian007/ts-toolkit/issues"
+  },
+  "homepage": "https://github.com/fantian007/ts-toolkit#readme",
+  "devDependencies": {
+    "@types/react": "^19.1.4"
+  }
+}
